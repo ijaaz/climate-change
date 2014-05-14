@@ -7,4 +7,4 @@
 [gimmick:theme (inverse: false)](readable)
 
 <!-- enable disqus -->
-[gimmick:Disqus](mtello)
+[gimmick:Disqus](muhammadtello)
