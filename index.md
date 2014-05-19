@@ -40,7 +40,6 @@ problem is that this will kill us, especially when we are talking about the
 environment.
 
 ## Main Idea 1 "What is global warming"
-
 ### the science of global warming
 #### Greenhouse gasses
 
@@ -125,16 +124,16 @@ influx and emittance are expressed in watts per square meter (W/m2).'")
 #### Death is inevitable, but we choose how we die
 #### We choose what we 
 
-- Climate Change: Sources
-  - http://www.theguardian.com/environment/2014/mar/22/global-warming-hit-asia-hardest
-      "Theses of this article is that global warming will hit everyone, but
-      asia the hardest."
+## Climate Change: Sources
+- http://www.theguardian.com/environment/2014/mar/22/global-warming-hit-asia-hardest
+  "Theses of this article is that global warming will hit everyone, but
+  asia the hardest."
 
-- Supporting evidence
+  - Supporting evidence
     - UN article
-      - This source was relevant to them due to it's warnings of asia's specific vulnerabilities including heat stress, extreme precipitation, drought, and water scarcity.
-      - Another reason this source was relevant is due to it's warnings of general global climate change risks including greater likelihood of injury, under-nutrition, and more deaths due to fires & heatwaves
-      - Other potential risks include food shortages of 12% or more
+    - This source was relevant to them due to it's warnings of asia's specific vulnerabilities including heat stress, extreme precipitation, drought, and water scarcity.
+    - Another reason this source was relevant is due to it's warnings of general global climate change risks including greater likelihood of injury, under-nutrition, and more deaths due to fires & heatwaves
+    - Other potential risks include food shortages of 12% or more
 - http://www.ucsusa.org/global_warming/
 - http://www.npr.org/blogs/13.7/2014/01/28/267038785/a-human-driven-mass-extinction-good-or-bad
 - http://www.theguardian.com/environment/2012/oct/11/hydrogen-economy-climate-change
