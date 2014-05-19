@@ -4,7 +4,11 @@
     var $h2;
     $h2 = $('h2');
     return $h2.each(function() {
-      return $(".list-group").append("<li class='list-group-item'><a href='" + $(this).text() + "'>" + $(this).text() + "</a></li>");
+      var $_this;
+      $_this = $(this);
+      $_this.addClass("md-inpage-anchor");
+      $(".list-group").append("<li class='list-group-item'><a href='#" + $_this.text().split(' ').join('_') + "'>" + $_this.text() + "</a></li>");
+      return $_this.attr('id', $_this.text().split(' ').join('_'));
     });
   });
 
