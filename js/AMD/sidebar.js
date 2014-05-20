@@ -3,12 +3,17 @@
   require(['helpers/jquery-2.1.1.min'], function() {
     var $h2;
     $h2 = $('h2');
-    return $h2.each(function() {
+    $h2.each(function() {
       var $_this;
       $_this = $(this);
       $_this.addClass("md-inpage-anchor");
-      $(".list-group").append("<li class='list-group-item'><a href='#" + $_this.text().split(' ').join('_') + "'>" + $_this.text() + "</a></li>");
+      $(".list-group").append("<a class='list-group-item' href='#" + $_this.text().split(' ').join('_') + "'>" + $_this.text() + "</a>");
       return $_this.attr('id', $_this.text().split(' ').join('_'));
+    });
+    return $('.affix').affix({
+      offset: {
+        top: $('#nav').offset().top
+      }
     });
   });
 
